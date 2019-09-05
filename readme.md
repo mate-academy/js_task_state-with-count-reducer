@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Count Reducer
 
 **Read the guideline before start**
 
